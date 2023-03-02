@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc47f4e4-7253-4cf6-829c-b6ab83e9f64f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../bai 8/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 8/employee.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 8/ex01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 8/kiemtragiatrisonhapvao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 8/luyentapifelse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 8/switch-case.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 8/tinhnamnhuanvanamkhongnhuan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 9/a%b.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 9/checkthang.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 9/good-fast-cheap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 9/hslop10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 9/maytinh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 9/songuyenbatky.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 9/sukienbanphim.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 9/sukienchuot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 9/tinhBMI.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai10/hienthithehrtheodorong1den100.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai10/tinhtongcacphantutu1densonhapvao.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/bangcuachuong.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MPJcHtHynF7zPGkLpWkXhW5R1X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/CODEGYM C022023G1/chuong1/bai 11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc47f4e4-7253-4cf6-829c-b6ab83e9f64f" name="Changes" comment="" />
+      <created>1677663361288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677663361288</updated>
+      <workItem from="1677663362453" duration="1303000" />
+      <workItem from="1677664698278" duration="265000" />
+      <workItem from="1677664982242" duration="550000" />
+      <workItem from="1677672934112" duration="3295000" />
+      <workItem from="1677684497909" duration="3764000" />
+      <workItem from="1677725300591" duration="725000" />
+      <workItem from="1677728373965" duration="6193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

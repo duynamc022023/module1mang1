@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5d68af9-b79c-4b84-932a-870c9f1a711a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../bai 8/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 8/employee.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 8/ex01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 8/kiemtragiatrisonhapvao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 8/luyentapifelse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 8/switch-case.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 8/tinhnamnhuanvanamkhongnhuan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 9/a%b.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 9/checkthang.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 9/good-fast-cheap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 9/hslop10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 9/maytinh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 9/songuyenbatky.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 9/sukienbanphim.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 9/sukienchuot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 9/tinhBMI.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai10/hienthithehrtheodorong1den100.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai10/tinhtongcacphantutu1densonhapvao.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/bai 11/bangcuachuong.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MRLOdN60xNu9ZVAni9DrPeYhq5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5d68af9-b79c-4b84-932a-870c9f1a711a" name="Changes" comment="" />
+      <created>1677725416730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677725416730</updated>
+      <workItem from="1677725418132" duration="1830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

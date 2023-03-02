@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ung dung may tinh</title>
+</head>
+<body>
+<form>
+<table border="1">
+    <tr>
+    <th colspan="2">Caculator</th>
+    </tr>
+    <tr>
+        <td>
+            <input type="number" id="num1" placeholder="nhap so thu nhat">
+            <input type="number" id="num2" placeholder="nhap so thu hai">
+        </td>
+
+        <td>
+            <button type="button" onclick="cong()">Cộng</button>
+        </td>
+
+        <td>
+            <button type="button" onclick="tru()">Trừ</button>
+        </td>
+
+        <td>
+            <button type="button" onclick="nhan()">Nhân</button>
+        </td>
+
+        <td>
+            <button type="button" onclick="chia()">Chia</button>
+        </td>
+    </tr>
+</table>
+    <p id = "result"></p>
+</form>
+<script>
+    let bang1 = document.getElementById("num1");
+    let bang2 = document.getElementById("num2");
+    function cong() {
+        let result = parseFloat(bang1.value) + parseFloat(bang2.value)
+        document.getElementById("result").innerHTML = "result" + result;
+    }
+    function tru() {
+        let result = parseFloat(bang1.value) - parseFloat(bang2.value)
+        document.getElementById("result").innerHTML = "result" + result;
+    }
+    function nhan() {
+        let result = parseFloat(bang1.value) * parseFloat(bang2.value)
+        document.getElementById("result").innerHTML = "result" + result;
+    }
+    function chia() {
+        let result = parseFloat(bang1.value) / parseFloat(bang2.value)
+        document.getElementById("result").innerHTML = "result" + result;
+    }
+</script>
+</body>
+</html>

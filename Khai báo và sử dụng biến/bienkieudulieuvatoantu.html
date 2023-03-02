@@ -1,0 +1,23 @@
+<!DOCTYPE html>S
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>diemtrungbinh</title>
+</head>
+<body>
+<script>
+    let diemly;
+    let diemhoa;
+    let diemsinh;
+
+    diemly =parseFloat(prompt("nhap diem ly"));
+    diemhoa =parseFloat(prompt("nhap diem hoa"));
+    diemsinh =parseFloat(prompt("nhap diem sinh"));
+
+    let diemtrungbinh = ((diemly+diemhoa+diemsinh)/3).toFixed(2);
+    let diemtong = diemly+diemhoa+diemsinh;
+    document.write("Diem trung binh: " + diemtrungbinh + "<br>");
+    document.write("Tong diem: " + diemtong);
+</script>
+</body>
+</html>

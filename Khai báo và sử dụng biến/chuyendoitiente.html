@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>chuyen doi tien te</title>
+</head>
+<body>
+<table>
+    <tbody>
+    <tr>
+        <th>
+            <label for="Amount">Amount</label>
+        </th>
+        <th>From Currency</th>
+        <th>To Currency</th>
+        <th></th>
+    </tr>
+    <tr>
+        <td>
+            <input type="text" id="Amount">
+        </td>
+        <td>
+            <select id="Form">
+                <option value="VND">VND</option>
+                <option value="USD">USD</option>
+            </select>
+        </td>
+        <td>
+            <select id="To">
+            <option value="VND">VND</option>
+            <option value="USD">USD</option>
+            </select>
+        </td>
+        <td>
+            <button onclick="ChangeMoney()">Convert</button>
+        </td>
+    </tr>
+    </tbody>
+</table>
+<script>
+function ChangeMoney() {
+    let giaotrivao =(document.getElementById("Amount").value);
+    let Form = (document.getElementById("Form").value);
+    let To = (document.getElementById("To").value);
+    if (Form == To) {
+        alert(giaotrivao);
+    }
+    if (Form == "VND" && To =="USD") {
+        alert(giaotrivao/23000);
+    }
+    if (Form == "USD" && To =="VND") {
+        alert(giaotrivao*23000);
+    }
+
+    }
+</script>
+</body>
+</html>
